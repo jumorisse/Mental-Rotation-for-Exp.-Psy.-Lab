@@ -29,7 +29,7 @@ $("document").ready(function() {
             serverAppURL: "magpie-demo.herokuapp.com/api/submit_experiment/",
             // Possible deployment methods are:
             // "debug" and "directLink"
-            // As well as "MTurk", "MTurkSandbox" and "Prolific"
+            // As well as "MTurk", "MTurkSandbox" and "Prolific"  
             deployMethod: "directLink",
             contact_email: "jmorisse@uni-osnabrueck.de"
         },
