@@ -29,8 +29,8 @@ $("document").ready(function() {
             serverAppURL: "magpie-demo.herokuapp.com/api/submit_experiment/",
             // Possible deployment methods are:
             // "debug" and "directLink"
-            // As well as "MTurk", "MTurkSandbox" and "Prolific"  
-            deployMethod: "directLink",
+            // As well as "MTurk", "MTurkSandbox" and "Prolific"
+            deployMethod: "debug",
             contact_email: "jmorisse@uni-osnabrueck.de"
         },
         // Here, you can specify how the progress bar should look like
